@@ -57,3 +57,20 @@ const sushrit = {
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SushritPasupuleti&layout=compact&hide=)](https://github.com/SushritPasupuleti/github-readme-stats)
+
+---
+
+## 👨‍💻 Projects I've been working on
+
+<a href="https://github.com/SushritPasupuleti/Braggi-A-Python-Based-Contextual-Chatbot-Framework">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SushritPasupuleti&repo=Braggi-A-Python-Based-Contextual-Chatbot-Framework" />
+</a>
+
+<a href="https://github.com/SushritPasupuleti/cab-booking-braggi">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SushritPasupuleti&repo=cab-booking-braggi" />
+</a>
+
+<a href="https://github.com/SushritPasupuleti/Videos">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SushritPasupuleti&repo=Videos" />
+</a>
+
