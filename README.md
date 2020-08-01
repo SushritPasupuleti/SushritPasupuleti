@@ -53,8 +53,10 @@ const sushrit = {
 };
 ```
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SushritPasupuleti&show_icons=true&hide_border=true&theme=blue-green&count_private=true" />
+## Flex Zone 💪
+---
 
+[![Stats](https://github-readme-stats.vercel.app/api?username=SushritPasupuleti&show_icons=true&hide_border=true&theme=blue-green&count_private=true)](https://github.com/SushritPasupuleti/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SushritPasupuleti&layout=compact&hide=)](https://github.com/SushritPasupuleti/github-readme-stats)
 
@@ -62,19 +64,13 @@ const sushrit = {
 
 ## 👨‍💻 Projects I've been working on
 
-<a href="https://github.com/SushritPasupuleti/Braggi-A-Python-Based-Contextual-Chatbot-Framework">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SushritPasupuleti&repo=Braggi-A-Python-Based-Contextual-Chatbot-Framework" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=SushritPasupuleti&repo=Braggi-A-Python-Based-Contextual-Chatbot-Framework)](https://github.com/SushritPasupuleti/Braggi-A-Python-Based-Contextual-Chatbot-Framework)
 
-<a href="https://github.com/SushritPasupuleti/cab-booking-braggi">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SushritPasupuleti&repo=cab-booking-braggi" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=SushritPasupuleti&repo=cab-booking-braggi)](https://github.com/SushritPasupuleti/cab-booking-braggi)
 
-<a href="https://github.com/SushritPasupuleti/Videos">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SushritPasupuleti&repo=Videos" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/pin/?username=SushritPasupuleti&repo=Videos)](https://github.com/SushritPasupuleti/Videos)
 
 Do note that most of my cool Projects are private but you can see them live if you go here:
-    - [My Shopping and Hospital Time Slot Booking App](http://shoppingslots.com)
-    - [A Working Demo of Braggi (Chatbot)](http://148.72.208.218:7777/)
+- [My Shopping and Hospital Time Slot Booking App](http://shoppingslots.com)
+- [A Working Demo of Braggi (Chatbot)](http://148.72.208.218:7777/)
 
