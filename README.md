@@ -74,3 +74,7 @@ const sushrit = {
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=SushritPasupuleti&repo=Videos" />
 </a>
 
+Do note that most of my cool Projects are private but you can see them live if you go here:
+    - [My Shopping and Hospital Time Slot Booking App](http://shoppingslots.com)
+    - [A Working Demo of Braggi (Chatbot)](http://148.72.208.218:7777/)
+
