@@ -10,7 +10,7 @@ const sushrit = {
   askMeAbout: ["web dev", "tech", "app dev", "ml", "AI", "hybrid apps", "linux", "chatbots"],
   technologies: {
     frontEnd: {
-      js: ["ReactJS", "ReactNative", "Flutter", "AngularJS"],
+      js: ["ReactJS", "ReactNative", "Flutter", "AngularJS", "GatsbyJS", "NextJS"],
       css: ["materialize", "material-ui", "bootstrap"],
       python: ["jinja"]
     },
