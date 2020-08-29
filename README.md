@@ -7,7 +7,7 @@
 ```javascript
 const sushrit = {
   code: ["Python", "Javascript", "Dart"],
-  askMeAbout: ["web dev", "tech", "app dev", "ml", "AI", "hybrid apps", "linux", "chatbots"],
+  askMeAbout: ["web dev", "tech", "app dev", "ml", "AI", "hybrid apps", "linux", "chatbots", "MERN Stack", "JAM Stack"],
   technologies: {
     frontEnd: {
       js: ["ReactJS", "ReactNative", "Flutter", "AngularJS", "GatsbyJS", "NextJS"],
