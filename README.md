@@ -19,7 +19,7 @@ const sushrit = {
       python: ["django", "flask", "sanic"],
     },
     devOps: ["AWS", "Docker🐳", "Nginx"],
-    databases: ["mongo", "MySql", "sqlite", "RxDB"],
+    databases: ["mongo", "MySql", "sqlite", "RxDB"m "neo4j"],
     misc: [
       "Firebase",
       "Socket.IO",
