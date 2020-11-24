@@ -7,7 +7,7 @@
 ```javascript
 const sushrit = {
   code: ["Python", "Javascript", "Dart"],
-  askMeAbout: ["web dev", "tech", "app dev", "ml", "AI", "hybrid apps", "linux", "chatbots", "MERN Stack", "JAM Stack"],
+  askMeAbout: ["web dev", "tech", "app dev", "ml", "AI", "hybrid apps", "linux", "chatbots", "MERN Stack", "JAM Stack", "monorepos"],
   technologies: {
     frontEnd: {
       js: ["ReactJS", "ReactNative", "Flutter", "AngularJS", "GatsbyJS", "NextJS"],
@@ -19,7 +19,7 @@ const sushrit = {
       python: ["django", "flask", "sanic"],
     },
     devOps: ["AWS", "Docker🐳", "Nginx"],
-    databases: ["mongo", "MySql", "sqlite", "RxDB"m "neo4j"],
+    databases: ["PostgreSQL", "mongo", "MySql", "sqlite", "RxDB"m "neo4j"],
     misc: [
       "Firebase",
       "Socket.IO",
