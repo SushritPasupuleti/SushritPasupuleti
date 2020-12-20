@@ -31,6 +31,7 @@ const sushrit = {
       "Auth",
       "Adaptive Cards",
       "GraphQL",
+      "Hasura",
       "Apollo",
       "Mongoose",
       "Chart.js",
