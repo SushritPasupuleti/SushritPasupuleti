@@ -18,7 +18,7 @@ const sushrit = {
       js: ["strapi", "express"],
       python: ["django", "flask", "sanic"],
     },
-    devOps: ["AWS", "Docker🐳", "Nginx"],
+    devOps: ["AWS", "Docker🐳", "Nginx", "Netlify", "Vercel"],
     databases: ["PostgreSQL", "mongo", "MySql", "sqlite", "RxDB"m "neo4j"],
     misc: [
       "Firebase",
