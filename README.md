@@ -10,7 +10,7 @@ const sushrit = {
   askMeAbout: ["web dev", "tech", "app dev", "ml", "AI", "hybrid apps", "linux", "chatbots", "MERN Stack", "JAM Stack", "monorepos"],
   technologies: {
     frontEnd: {
-      js: ["ReactJS", "ReactNative", "Flutter", "AngularJS", "GatsbyJS", "NextJS"],
+      js: ["ReactJS", "NextJS", "ReactNative", "Flutter", "AngularJS", "GatsbyJS"],
       css: ["materialize", "material-ui", "bootstrap"],
       python: ["jinja"]
     },
@@ -20,6 +20,7 @@ const sushrit = {
     },
     devOps: ["AWS", "Docker🐳", "Nginx", "Netlify", "Vercel"],
     databases: ["PostgreSQL", "mongo", "MySql", "sqlite", "RxDB"m "neo4j"],
+    testing: ["jest", "supertest", "cypress"],
     misc: [
       "Firebase",
       "Socket.IO",
