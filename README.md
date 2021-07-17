@@ -37,6 +37,7 @@ const sushrit = {
       "Mongoose",
       "Chart.js",
       "ApexCharts.js",
+      "Sequelize",
     ],
     ml: {
       python: ["Tensorflow", "TFlearn", "Keras", "PyTorch"],
