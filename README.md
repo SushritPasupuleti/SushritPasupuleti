@@ -58,6 +58,8 @@ const sushrit = {
 ## Flex Zone 💪
 ---
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SushritPasupuleti&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 [![Stats](https://github-readme-stats.vercel.app/api?username=SushritPasupuleti&show_icons=true&hide_border=true&theme=blue-green&count_private=true)](https://github.com/SushritPasupuleti/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SushritPasupuleti&layout=compact&hide=)](https://github.com/SushritPasupuleti/github-readme-stats)
