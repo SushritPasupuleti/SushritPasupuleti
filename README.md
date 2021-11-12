@@ -51,7 +51,7 @@ const sushrit = {
     "Single Page Applications",
     "Full Stack Applications",
   ],
-  currentProject: "Working on A ChatBot Platform and a Time Slot Based Hospital Reservation System",
+  currentProject: "Working on skillShack(⚡); - A platform for software professionals to showcase their projects",
 };
 ```
 
