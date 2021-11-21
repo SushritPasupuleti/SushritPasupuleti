@@ -16,7 +16,7 @@ const sushrit = {
     },
     backEnd: {
       js: ["strapi", "express"],
-      python: ["django", "flask", "sanic"],
+      python: ["fastAPI", django", "flask", "sanic"],
     },
     devOps: ["AWS", "Docker🐳", "Nginx", "Netlify", "Vercel"],
     databases: ["PostgreSQL", "mongo", "MySql", "sqlite", "RxDB"m "neo4j"],
