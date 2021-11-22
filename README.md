@@ -6,7 +6,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@sushrit.pk21-00acee?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@sushrit.pk21 "Follow on Medium")
 ```javascript
 const sushrit = {
-  code: ["Python", "Javascript", "Dart"],
+  code: ["Python", "JavaScript", "TypeScript", "Dart"],
   askMeAbout: ["web dev", "tech", "app dev", "ml", "AI", "hybrid apps", "linux", "chatbots", "MERN Stack", "JAM Stack", "monorepos"],
   technologies: {
     frontEnd: {
