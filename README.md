@@ -16,10 +16,10 @@ const sushrit = {
     },
     backEnd: {
       js: ["strapi", "express"],
-      python: ["fastAPI", django", "flask", "sanic"],
+      python: ["fastAPI", "django", "flask", "sanic"],
     },
-    devOps: ["AWS", "Docker🐳", "Nginx", "Netlify", "Vercel"],
-    databases: ["PostgreSQL", "mongo", "MySql", "sqlite", "RxDB"m "neo4j"],
+    devOps: ["AWS", "Docker🐳", "Nginx", "Netlify", "Vercel", "GitHub Actions"],
+    databases: ["PostgreSQL", "mongoDB", "MySQL", "sqlite", "RxDB"m "neo4j"],
     testing: ["jest", "supertest", "cypress"],
     misc: [
       "Firebase",
