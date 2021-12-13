@@ -11,7 +11,7 @@ const sushrit = {
   technologies: {
     frontEnd: {
       js: ["ReactJS", "NextJS", "ReactNative", "Flutter", "AngularJS", "GatsbyJS"],
-      css: ["materialize", "material-ui", "bootstrap"],
+      css: ["materialize", "bootstrap", "tailwindcss"],
       python: ["jinja"]
     },
     backEnd: {
@@ -23,6 +23,8 @@ const sushrit = {
     testing: ["jest", "supertest", "cypress"],
     misc: [
       "Firebase",
+      "material-ui",
+      "react-native-paper",
       "Socket.IO",
       "React-Redux",
       "Redux-Form",
@@ -39,6 +41,7 @@ const sushrit = {
       "Chart.js",
       "ApexCharts.js",
       "Sequelize",
+      "turborepo",
     ],
     ml: {
       python: ["Tensorflow", "TFlearn", "Keras", "PyTorch"],
