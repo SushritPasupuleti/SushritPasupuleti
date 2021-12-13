@@ -25,6 +25,8 @@ const sushrit = {
       "Firebase",
       "material-ui",
       "react-native-paper",
+      "React NativeBase",
+      "RNUILib"
       "Socket.IO",
       "React-Redux",
       "Redux-Form",
