@@ -19,7 +19,7 @@ const sushrit = {
       python: ["fastAPI", "django", "flask", "sanic"],
     },
     devOps: ["AWS", "Docker🐳", "Nginx", "Netlify", "Vercel", "GitHub Actions"],
-    databases: ["PostgreSQL", "mongoDB", "MySQL", "sqlite", "RxDB"m "neo4j"],
+    databases: ["PostgreSQL", "mongoDB", "MySQL", "sqlite", "RxDB", "neo4j"],
     testing: ["jest", "supertest", "cypress"],
     misc: [
       "Firebase",
