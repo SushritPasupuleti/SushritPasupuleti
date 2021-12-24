@@ -44,6 +44,7 @@ const sushrit = {
       "ApexCharts.js",
       "Sequelize",
       "turborepo",
+      "nx",
     ],
     ml: {
       python: ["Tensorflow", "TFlearn", "Keras", "PyTorch"],
