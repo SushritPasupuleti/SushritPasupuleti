@@ -45,6 +45,7 @@ const sushrit = {
       "Sequelize",
       "turborepo",
       "nx",
+      "react-admin",
     ],
     ml: {
       python: ["Tensorflow", "TFlearn", "Keras", "PyTorch"],
