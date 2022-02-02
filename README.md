@@ -46,6 +46,7 @@ const sushrit = {
       "turborepo",
       "nx",
       "react-admin",
+      "Google Analytics",
     ],
     ml: {
       python: ["Tensorflow", "TFlearn", "Keras", "PyTorch"],
