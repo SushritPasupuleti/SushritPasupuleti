@@ -47,6 +47,7 @@ const sushrit = {
       "nx",
       "react-admin",
       "Google Analytics",
+      "Webhooks"
     ],
     ml: {
       python: ["Tensorflow", "TFlearn", "Keras", "PyTorch"],
