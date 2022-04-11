@@ -18,7 +18,7 @@ const sushrit = {
       js: ["strapi", "express"],
       python: ["fastAPI", "django", "flask", "sanic"],
     },
-    devOps: ["AWS", "Docker🐳", "Nginx", "Netlify", "Vercel", "GitHub Actions"],
+    devOps: ["AWS", "Azure", "Docker🐳", "Nginx", "Netlify", "Vercel", "GitHub Actions"],
     databases: ["PostgreSQL", "mongoDB", "MySQL", "sqlite", "RxDB", "neo4j"],
     testing: ["jest", "supertest", "cypress"],
     misc: [
@@ -47,7 +47,8 @@ const sushrit = {
       "nx",
       "react-admin",
       "Google Analytics",
-      "Webhooks"
+      "Webhooks",
+      "OpenAI API"
     ],
     ml: {
       python: ["Tensorflow", "TFlearn", "Keras", "PyTorch"],
