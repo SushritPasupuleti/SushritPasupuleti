@@ -48,7 +48,8 @@ const sushrit = {
       "react-admin",
       "Google Analytics",
       "Webhooks",
-      "OpenAI API"
+      "OpenAI API",
+      "Puppeteer"
     ],
     ml: {
       python: ["Tensorflow", "TFlearn", "Keras", "PyTorch"],
