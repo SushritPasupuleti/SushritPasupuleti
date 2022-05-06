@@ -30,6 +30,8 @@ const sushrit = {
       "Socket.IO",
       "React-Redux",
       "Redux-Form",
+      "Formik",
+      "React Hook Form",
       "Redux Toolkit",
       "React-Query",
       "React-Router",
