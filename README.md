@@ -51,7 +51,8 @@ const sushrit = {
       "Google Analytics",
       "Webhooks",
       "OpenAI API",
-      "Puppeteer"
+      "Puppeteer",
+      "Apache Airflow"
     ],
     ml: {
       python: ["Tensorflow", "TFlearn", "Keras", "PyTorch"],
