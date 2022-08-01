@@ -67,6 +67,13 @@ const sushrit = {
     "Single Page Applications",
     "Full Stack Applications",
   ],
+  "tools-I-use": [
+    "neovim",
+    "tmux",
+    "ranger",
+    "lazygit",
+    "[Learn more](https://github.com/SushritPasupuleti/My-DevTools)"
+  ],
   currentProject: "Working on skillShack(⚡); - A platform for software professionals to showcase their projects",
 };
 ```
