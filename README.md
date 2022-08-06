@@ -7,7 +7,7 @@
 ```javascript
 const sushrit = {
   code: ["Python", "JavaScript", "TypeScript", "Go", "Dart"],
-  askMeAbout: ["web dev", "tech", "app dev", "ml", "AI", "hybrid apps", "linux", "chatbots", "MERN Stack", "JAM Stack", "monorepos", "neovim"],
+  askMeAbout: ["web dev", "tech", "app dev", "project management", "ml", "AI", "hybrid apps", "linux", "chatbots", "MERN Stack", "JAM Stack", "monorepos", "neovim"],
   technologies: {
     frontEnd: {
       js: ["ReactJS", "NextJS", "ReactNative", "React Native Expo", "Flutter", "AngularJS", "GatsbyJS"],
@@ -66,6 +66,13 @@ const sushrit = {
     "Progressive Web Applications",
     "Single Page Applications",
     "Full Stack Applications",
+  ],
+  "project-management-stack": [
+     "Asana",
+     "Jira",
+     "GitHub Projects",
+     "n8n",
+     "GSuite"
   ],
   "tools-I-use": [
     "neovim",
