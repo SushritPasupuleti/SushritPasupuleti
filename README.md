@@ -20,7 +20,7 @@ const sushrit = {
       go: ["gin"],
     },
     devOps: ["AWS", "Azure", "Docker🐳", "Kubernetes", "Nginx", "Netlify", "Vercel", "GitHub Actions", "Proxmox"],
-    databases: ["PostgreSQL", "mongoDB", "MySQL", "sqlite", "RxDB", "neo4j"],
+    databases: ["PostgreSQL", "mongoDB", "MySQL", "sqlite", "RxDB", "neo4j", "redis"],
     testing: ["jest", "supertest", "cypress"],
     misc: [
       "Firebase",
