@@ -17,7 +17,7 @@ const sushrit = {
     backEnd: {
       js: ["strapi", "express"],
       python: ["fastAPI", "django", "flask", "sanic"],
-      go: ["gin", "gorm"],
+      go: ["gin"],
     },
     devOps: ["AWS", "Azure", "Docker🐳", "Kubernetes", "Nginx", "Netlify", "Vercel", "GitHub Actions", "Proxmox"],
     databases: ["PostgreSQL", "mongoDB", "MySQL", "sqlite", "RxDB", "neo4j"],
@@ -46,6 +46,7 @@ const sushrit = {
       "Chart.js",
       "ApexCharts.js",
       "Sequelize",
+      "Gorm",
       "turborepo",
       "nx",
       "react-admin",
