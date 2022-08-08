@@ -12,7 +12,7 @@ const sushrit = {
     frontEnd: {
       ui: ["ReactJS", "NextJS", "ReactNative", "React Native Expo", "Flutter", "AngularJS", "GatsbyJS"],
       css: ["materialize", "bootstrap", "tailwindcss"],
-      python: ["jinja"]
+      python: ["jinja2"]
     },
     backEnd: {
       js: ["strapi", "express"],
