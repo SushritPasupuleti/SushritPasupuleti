@@ -110,3 +110,5 @@ const sushrit = {
 Do note that most of my cool Projects are private but you can see them live if you go here:
 - [Current Startup - skillShack(⚡); (Live now with a Public Beta)](http://skillshack.dev)
 - [My Shopping and Hospital Time Slot Booking App](http://shoppingslots.com)
+
+Currently exploring PM/TPM roles!
