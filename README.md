@@ -6,7 +6,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@sushrit.pk21-00acee?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@sushrit.pk21 "Follow on Medium")
 ```javascript
 const sushrit = {
-  code: ["Python", "JavaScript", "TypeScript", "Go", "Dart"],
+  code: ["Python", "JavaScript", "TypeScript", "C#", "Rust", "Go", "Dart"],
   askMeAbout: ["web dev", "tech", "app dev", "project management", "ml", "AI", "hybrid apps", "linux", "chatbots", "MERN Stack", "JAM Stack", "monorepos", "neovim"],
   technologies: {
     frontEnd: {
@@ -15,6 +15,7 @@ const sushrit = {
       python: ["jinja2"]
     },
     backEnd: {
+      "c#": ["ASP.NET Core"],
       js: ["strapi", "express"],
       python: ["fastAPI", "django", "flask", "sanic"],
       go: ["gin"],
@@ -23,6 +24,10 @@ const sushrit = {
     databases: ["PostgreSQL", "mongoDB", "MySQL", "sqlite", "RxDB", "neo4j", "redis", "firebase"],
     testing: ["jest", "supertest", "cypress"],
     misc: [
+      "SignalR",
+      "WebSockets",
+      "WebRTC",
+      "gRPC",
       "Firebase",
       "material-ui",
       "react-native-paper",
