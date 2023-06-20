@@ -15,7 +15,8 @@ const sushrit = {
       python: ["jinja2"]
     },
     backEnd: {
-      "c#": ["ASP.NET Core"],
+      "c\#": ["ASP.NET Core"],
+      rust: ["axum", "tower"],
       js: ["strapi", "express"],
       python: ["fastAPI", "django", "flask", "sanic"],
       go: ["gin"],
