@@ -101,6 +101,15 @@ const sushrit = {
 
 [![Top Langs](https://github-readme-stats-sushritpasupuleti.vercel.app/api/top-langs/?username=SushritPasupuleti&hide=jupyter%20notebook,css,html,starlark,ruby,smarty,shell,php,objective-c,solidity,hack,batchfile,dockerfile,scss&size_weight=0&count_weight=1&layout=compact&langs_count=10)](https://github.com/SushritPasupuleti/github-readme-stats)
 
+<details>
+  <summary>
+    Unfiltered
+  </summary>
+  
+  [![Top Langs](https://github-readme-stats-sushritpasupuleti.vercel.app/api/top-langs/?username=SushritPasupuleti&size_weight=0&count_weight=1&layout=compact&langs_count=50)](https://github.com/SushritPasupuleti/github-readme-stats)
+  
+</details>
+
 ---
 
 ## 👨‍💻 Projects I've been working on
