@@ -99,7 +99,7 @@ const sushrit = {
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=SushritPasupuleti&show_icons=true&hide_border=true&theme=blue-green&count_private=true)](https://github.com/SushritPasupuleti/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SushritPasupuleti&&langs_count=8&hide=jupyter%20notebook,css,html,starlark,ruby,shell,javascript,objective-c,solidity&size_weight=0&count_weight=1&layout=compact)](https://github.com/SushritPasupuleti/github-readme-stats)
+[![Top Langs](https://github-readme-stats-sushritpasupuleti.vercel.app/api/top-langs/?username=SushritPasupuleti&hide=jupyter%20notebook,css,html,starlark,ruby,smarty,shell,php,objective-c,solidity,hack,batchfile,dockerfile,scss&size_weight=0&count_weight=1&layout=compact&langs_count=10)](https://github.com/SushritPasupuleti/github-readme-stats)
 
 ---
 
