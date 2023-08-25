@@ -66,7 +66,7 @@ const sushrit = {
       "Apache Airflow"
     ],
     ml: {
-      python: ["Tensorflow", "TFlearn", "Keras", "PyTorch"],
+      python: ["Tensorflow", "TFlearn", "Keras", "PyTorch", "LangChain", "Transformers"],
       js: ["Tensorflow.js"],
       ds: ["pandas", "matplotlib", "d3js", "scikit-learn"],
     },
