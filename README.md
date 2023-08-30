@@ -17,7 +17,7 @@ const sushrit = {
     backEnd: {
       "c\#": ["ASP.NET Core"],
       rust: ["axum", "tower"],
-      js: ["strapi", "express"],
+      js: ["express"],
       python: ["fastAPI", "django", "flask", "sanic"],
       go: ["chi", "fiber", "gin"],
     },
@@ -33,7 +33,7 @@ const sushrit = {
       "material-ui",
       "react-native-paper",
       "React NativeBase",
-      "RNUILib"
+      "RNUILib",
       "Socket.IO",
       "React-Redux",
       "Redux-Form",
