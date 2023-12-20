@@ -98,9 +98,9 @@ const sushrit = {
 ## Flex Zone 💪
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SushritPasupuleti&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SushritPasupuleti&theme=catppuccin_mocha&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=SushritPasupuleti&show_icons=true&hide_border=true&theme=blue-green&count_private=true&hide_rank=true&show=reviews,discussions_started,discussions_answered)](https://github.com/SushritPasupuleti/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=SushritPasupuleti&show_icons=true&hide_border=true&theme=catppuccin_mocha&count_private=true&hide_rank=true&show=reviews,discussions_started,discussions_answered)](https://github.com/SushritPasupuleti/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-sushritpasupuleti.vercel.app/api/top-langs/?username=SushritPasupuleti&hide=jupyter%20notebook,css,html,starlark,ruby,smarty,shell,php,objective-c,solidity,hack,batchfile,dockerfile,scss&size_weight=0&count_weight=1&layout=compact&langs_count=10)](https://github.com/SushritPasupuleti/github-readme-stats)
 
