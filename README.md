@@ -102,6 +102,9 @@ const sushrit = {
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=SushritPasupuleti&show_icons=true&hide_border=true&theme=catppuccin_mocha&count_private=true&hide_rank=true&show=reviews,discussions_started,discussions_answered)](https://github.com/SushritPasupuleti/github-readme-stats)
 
+> [!NOTE]
+> The following language cards do not count beyond the first 100 repositories in a profile [(context)](https://github.com/anuraghazra/github-readme-stats/issues/1852), as such they are outdated, but they do look nice, so I have them linked.
+
 [![Top Langs](https://github-readme-stats-sushritpasupuleti.vercel.app/api/top-langs/?username=SushritPasupuleti&hide=jupyter%20notebook,css,html,starlark,ruby,smarty,shell,php,objective-c,solidity,hack,batchfile,dockerfile,scss&size_weight=0&count_weight=1&layout=compact&langs_count=10)](https://github.com/SushritPasupuleti/github-readme-stats)
 
 <details>
